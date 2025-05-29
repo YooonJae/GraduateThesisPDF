@@ -1,2 +1,0 @@
-# GraduateThesisPDF
-PDF file
